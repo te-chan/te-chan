@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi there 👋, I'm te-chan!</h1>
+## Hi there! I'm te-chan!👋
 
 <p align="center">
   <a href="https://github.com/L4pisLazuli">
